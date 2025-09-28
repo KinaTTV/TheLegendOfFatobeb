@@ -1,0 +1,27 @@
+# Dossiers temporaires
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+
+# Fichiers spécifiques
+*.suo
+*.user
+*.userprefs
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# Build
+*.pdb
+*.exe
+*.dll
+*.app
+*.dylib
+*.ipa
+*.apk
+
+# Logs
+*.log
